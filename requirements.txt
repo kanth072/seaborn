@@ -1,0 +1,8 @@
+Requirements:
+pandas
+numpy
+matplotlib
+seaborn
+plotly
+dash
+jupyter
